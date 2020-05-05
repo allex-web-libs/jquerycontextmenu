@@ -1,0 +1,13 @@
+{
+  "browserify": {
+    "dist/browserified.js": "index.js"
+  },
+  "additionaltargets": {
+    "js": [
+      ["dist", "jquery-contextmenu", "dist", "jquery.contextMenu.js"]
+    ],
+    "css": [
+      ["dist", "jquery-contextmenu", "dist", "jquery.contextMenu.min.css"]
+    ]
+  }
+}

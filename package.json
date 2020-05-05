@@ -1,0 +1,30 @@
+{
+  "name": "allex_jquerycontextmenuweblib",
+  "version": "1.0.0",
+  "description": "AllexJS web lib that implements the jQuery context menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-web-libs/jquerycontextmenu.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "web",
+    "lib",
+    "jquery",
+    "context",
+    "menu"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-web-libs/jquerycontextmenu/issues"
+  },
+  "homepage": "https://github.com/allex-web-libs/jquerycontextmenu#readme",
+  "dependencies": {
+    "jquery-contextmenu": "^2.9.0"
+  }
+}
