@@ -9,5 +9,8 @@
     "css": [
       ["dist", "jquery-contextmenu", "dist", "jquery.contextMenu.min.css"]
     ]
-  }
+  },
+  "copy": [
+    "dist/jquery-contextmenu/dist/font"
+  ]
 }
